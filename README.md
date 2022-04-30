@@ -18,10 +18,6 @@
 - In my Github page i'll upload some of my projects ...
 - Discord : AT#1600
 
-[![Taiga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiga&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiga&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
 TaigaAsk/TaigaAsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
